@@ -1,0 +1,8 @@
+﻿  main.cpp
+  product.cpp
+  sale_record.cpp
+  sales_manager.cpp
+D:\Code Library\C++\Console\ProductSystem\ProductSystem\solution\sales_manager\impl\sales_manager.cpp(13,50): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  saleperson.cpp
+  Создание кода...
+  ProductSystem.vcxproj -> D:\Code Library\C++\Console\ProductSystem\x64\Debug\ProductSystem.exe
