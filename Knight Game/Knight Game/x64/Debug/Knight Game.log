@@ -1,3 +1,0 @@
-﻿  Knight Game.cpp
-D:\Code Library\C++\Knight Game\Knight Game\Knight Game.cpp(132,40): warning C4305: инициализация: усечение из "double" в "float"
-  Knight Game.vcxproj -> D:\Code Library\C++\Knight Game\x64\Debug\Knight Game.exe
